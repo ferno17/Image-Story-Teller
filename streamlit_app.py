@@ -7,7 +7,6 @@ from PIL import Image
 from gtts import gTTS
 from transformers import pipeline
 from IPython.display import Audio
-from model import get_caption_model, generate_caption
 from langchain import PromptTemplate, LLMChain
 from langchain.llms import GooglePalm
 from dotenv import find_dotenv, load_dotenv
