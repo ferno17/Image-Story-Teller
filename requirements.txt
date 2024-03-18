@@ -3,7 +3,6 @@ gTTS
 transformers
 requests
 langchain
-dotenv
 PromptTemplate
 LLMChain
 GooglePalm
