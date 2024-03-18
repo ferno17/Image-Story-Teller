@@ -9,3 +9,7 @@ requests
 PIL
 langchain
 dotenv
+PromptTemplate
+LLMChain
+GooglePalm
+Image
