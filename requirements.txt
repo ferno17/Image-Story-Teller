@@ -3,6 +3,5 @@ gTTS
 transformers
 requests
 langchain
-LLMChain
 GooglePalm
 pip
