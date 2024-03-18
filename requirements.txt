@@ -2,7 +2,6 @@ streamlit
 gTTS
 transformers
 IPython
-pandas
 io
 os
 requests
