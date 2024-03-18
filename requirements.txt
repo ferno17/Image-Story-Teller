@@ -3,4 +3,3 @@ gTTS
 transformers
 requests
 langchain
-GooglePalm
