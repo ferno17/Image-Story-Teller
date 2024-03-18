@@ -1,7 +1,6 @@
 streamlit
 gTTS
 transformers
-IPython
 io
 os
 requests
