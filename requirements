@@ -1,1 +1,1 @@
-gTTS
+from gtts import gTTS
