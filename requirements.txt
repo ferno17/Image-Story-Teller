@@ -3,8 +3,6 @@ gTTS
 transformers
 requests
 langchain
-PromptTemplate
 LLMChain
 GooglePalm
-Image
 pip
