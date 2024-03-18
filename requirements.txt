@@ -1,7 +1,6 @@
 streamlit
 gTTS
 transformers
-io
 os
 requests
 PIL
