@@ -8,3 +8,4 @@ PromptTemplate
 LLMChain
 GooglePalm
 Image
+pip
