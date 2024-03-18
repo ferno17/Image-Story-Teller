@@ -1,7 +1,6 @@
 streamlit
 gTTS
 transformers
-os
 requests
 PIL
 langchain
